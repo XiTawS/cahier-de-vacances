@@ -44,9 +44,5 @@ cahier-de-vacances/
 
 
 ## 👨‍💻 Auteur
-
-**Léooo - XiTawS**
 ![XiTawS](https://i.imgur.com/u6Hmfa7.gif)
-
-
 ---
