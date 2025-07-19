@@ -38,7 +38,7 @@ node Calculator.js
 
 ## Docs utilisée
 
-- [Number.isNaN()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Number/isNaN) - Pas utilisé finalement. 
+- [Number.isNaN()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Number/isNaN) 
 - [processus.exit(0)](https://www-geeksforgeeks-org.translate.goog/node-js/how-to-exit-process-in-node-js/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=rq)
 - [reponse.trim()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/String/trim)
 - [eval(`${num1} ${operation} ${num2}`)](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/eval)
