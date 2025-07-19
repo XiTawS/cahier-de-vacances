@@ -35,7 +35,7 @@ function menu() {
     }); 
 }
 
-function demanderNombre(chiffrenum, num) {
+function demanderNombre(chiffrenum, num,) {
     rl.question(`Entrez le ${chiffrenum} nombre: `, function(reponse) {
         if (isNaN(reponse) || reponse.trim() === '') {
             console.log("❌ ERREUR - Veuillez entrer un nombre valide.");
@@ -49,6 +49,10 @@ function demanderNombre(chiffrenum, num) {
 function calcul(operation) {
     demanderNombre('premier', function(num1) {
         demanderNombre('deuxième', function(num2) {
+            if (num2 == 0 && operation == '/') {
+                console.log("❌ ERREUR - Division par zéro.");
+                return calcul(operation);
+            }
             const result = eval(`${num1} ${operation} ${num2}`); 
             console.log(`Le résultat de ${num1} ${operation} ${num2} est ${result}\n`);
             continuer(menu);
