@@ -20,7 +20,7 @@ Cette application est une calculatrice simple qui permet d'effectuer les quatre 
 
 ### Lancement de la calculatrice
 ```bash
-node Calculator.js
+node Calculatrice.js
 ```
 
 ### Utilisation

@@ -11,9 +11,13 @@ Bienvenue dans mon cahier de vacances de programmation ! Ce dépôt contient une
 
 ## 📁 Projets inclus
 
-### 🧮 [Calculatrice](./Calculator/)
+### 🧮 [Calculatrice](./Calculatrice/)
 **Langage :** JavaScript (Node.js)  
 **Description :** Une calculatrice interactive en ligne de commande qui permet d'effectuer les quatre opérations arithmétiques de base.
+
+### 🎲 [Nombre Mystère](./NombreMystere/)
+**Langage :** JavaScript (Node.js)  
+**Description :** Un jeu de devinette interactif où le joueur doit deviner un nombre mystère. Propose 3 niveaux de difficulté et sauvegarde l'historique des parties.
 
 
 ## 🚀 Comment utiliser ce dépôt
@@ -26,7 +30,9 @@ Bienvenue dans mon cahier de vacances de programmation ! Ce dépôt contient une
 
 2. Naviguez vers le projet souhaité :
    ```bash
-   cd Calculator/
+   cd Calculatrice/
+   # ou
+   cd NombreMystere/
    ```
 
 3. Suivez les instructions du README spécifique à chaque projet
@@ -36,10 +42,14 @@ Bienvenue dans mon cahier de vacances de programmation ! Ce dépôt contient une
 ```
 cahier-de-vacances/
 ├── README.md              # Ce fichier
-├── Calculator/            # Projet calculatrice
-│   ├── Calculator.js      # Code source
+├── Calculatrice/            # Projet calculatrice
+│   ├── Calculatrice.js      # Code source
 │   └── README.md          # Documentation du projet
-└── [futurs projets...]    # Projets à venir
+├── NombreMystere/         # Jeu du nombre mystère
+│   ├── NombreMystere.js   # Code source
+│   ├── README.md          # Documentation du projet
+│   └── historique.json    # Historique des parties (généré)
+└── [...]    # Projets à venir
 ```
 
 

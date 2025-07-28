@@ -1,0 +1,44 @@
+[
+  {
+    "niveau": "facile",
+    "nombre_mystere": 29,
+    "tentatives": 5,
+    "date": "28/07/2025",
+    "heure": "19:12:26"
+  },
+  {
+    "niveau": "difficile",
+    "nombre_mystere": 60,
+    "tentatives": 3,
+    "date": "28/07/2025",
+    "heure": "19:22:46"
+  },
+  {
+    "niveau": "difficile",
+    "nombre_mystere": 256,
+    "tentatives": 10,
+    "date": "28/07/2025",
+    "heure": "19:24:00"
+  },
+  {
+    "niveau": "moyen",
+    "nombre_mystere": 38,
+    "tentatives": 6,
+    "date": "28/07/2025",
+    "heure": "19:24:33"
+  },
+  {
+    "niveau": "moyen",
+    "nombre_mystere": 17,
+    "tentatives": 6,
+    "date": "28/07/2025",
+    "heure": "19:24:58"
+  },
+  {
+    "niveau": "facile",
+    "nombre_mystere": 29,
+    "tentatives": 5,
+    "date": "28/07/2025",
+    "heure": "19:25:18"
+  }
+]
